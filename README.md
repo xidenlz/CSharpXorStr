@@ -27,6 +27,6 @@ Output
 ```CS
 肩楪櫫腆賸暘璉舰賸噼諜鼠
 ```
-# Installation 🤞
+## Installation 🤞
 1. Make new cs file in your project
 2. copy and paste XorString and Extensions classes 
