@@ -27,7 +27,7 @@ Output
 肩楪櫫腆賸暘璉舰賸噼諜鼠
 ```
 ## Installation 🤞
-1. Make new cs file in your project
-2. Copy and paste XorString and Extensions classes 
+1. Create a new C# file in your project.
+2. Copy and paste the XorString and Extensions classes.
 ### LICENSE:
 This project is licensed under the [Apache 2.0 license](https://github.com/Mes2d/C-XorStr/blob/main/LICENSE).
