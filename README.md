@@ -5,7 +5,7 @@ https://github.com/JustasMasiulis/xorstr/tree/master
 
 ## Usage ⚙
 C# Console 
-```sh
+```CS
 public class Program
 {
     public static void Main()
@@ -21,7 +21,7 @@ Output
 ```
 C# Windows Forms
 ```CS
-label5.Text = XorString.XorStr("EncryptedString");
+label1.Text = XorString.XorStr("EncryptedString");
 ```
 Output 
 ```CS
@@ -30,3 +30,5 @@ Output
 ## Installation 🤞
 1. Make new cs file in your project
 2. copy and paste XorString and Extensions classes 
+### LICENSE:
+This project is licensed under the [Apache 2.0 license](https://github.com/Mes2d/C-XorStr/blob/main/LICENSE).
