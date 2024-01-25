@@ -15,7 +15,7 @@ public class Program
     }
 }
 ```
-# Output
+Output
 ```CS
 ????????????
 ```
@@ -23,7 +23,7 @@ C# Windows Forms
 ```CS
 label5.Text = XorString.XorStr("EncryptedString");
 ```
-# Output 
+Output 
 ```CS
 肩楪櫫腆賸暘璉舰賸噼諜鼠
 ```
