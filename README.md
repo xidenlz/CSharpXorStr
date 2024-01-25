@@ -1,11 +1,10 @@
 # C# XorStr
-Since I couldn't find a good way to use XorStr in C# i made this, it's based on this one 
-https://github.com/JustasMasiulis/xorstr/tree/master
 
+Since I couldn't find a good way to use XorStr in C#, I made this. It's based on [this implementation](https://github.com/JustasMasiulis/xorstr/tree/master).
 
 ## Usage ⚙
-C# Console 
-```CS
+### C# Console 
+```csharp
 public class Program
 {
     public static void Main()
@@ -14,7 +13,7 @@ public class Program
         Console.WriteLine(str);
     }
 }
-```
+
 Output
 ```CS
 ????????????
@@ -29,6 +28,6 @@ Output
 ```
 ## Installation 🤞
 1. Make new cs file in your project
-2. copy and paste XorString and Extensions classes 
+2. Copy and paste XorString and Extensions classes 
 ### LICENSE:
 This project is licensed under the [Apache 2.0 license](https://github.com/Mes2d/C-XorStr/blob/main/LICENSE).
