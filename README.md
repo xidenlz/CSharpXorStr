@@ -3,7 +3,7 @@ This C# repository provides an implementation of the XorStr (XOR string) encrypt
 
 The implementation includes a set of utility methods within the XorString class, allowing users to easily apply XorStr encryption to strings. Additionally, the code includes an example in the form of a console application and demonstrates how to use XorStr in a C# Windows Forms application.
 
-This implementation is inspired by an [existing XorStr implementation(https://github.com/JustasMasiulis/xorstr/tree/master)] and is tailored for usage in C# projects.
+This implementation is inspired by an [existing XorStr implementation](https://github.com/JustasMasiulis/xorstr/tree/master) and is tailored for usage in C# projects.
 
 ## Usage:
 ### C# Console 
